@@ -1,4 +1,4 @@
-# two_sided_market_entry_simulation
+# Entry strategies for city-based platforms
 This is the simulation code for my dissertation paper 
 In this paper, I build a theoretical framework to study the relative importance
 of multiple factors on entry decision of city-based platforms with homogeneous
