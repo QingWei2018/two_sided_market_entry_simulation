@@ -16,3 +16,4 @@ city ahead of its rival competitor is crucial in winning the market leadership f
 players. If a second mover lost the opportunity of capturing the largest market, it
 might have to raise a huge amount of money to overcome its disadvantage in the
 later competition.
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3286583
